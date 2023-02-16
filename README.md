@@ -2,7 +2,7 @@
 
 <br>
 <div>
-  <a href="https://github.com/paulogemniczak">
+  <a href="https://github.com/paulogemniczak" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulogemniczak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulogemniczak&layout=compact&langs_count=16&theme=tokyonight">
 </div>
